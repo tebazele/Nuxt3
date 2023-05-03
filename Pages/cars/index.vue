@@ -10,6 +10,10 @@ console.log(cars)
   <div>
 
     <NavBar />
+    <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#createCar">
+      Open Modal
+    </button>
+    <Modal id="createCar" />
 
     <div class="container-fluid">
       <div class="row justify-content-center">

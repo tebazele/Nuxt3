@@ -13,7 +13,9 @@
     "nuxt": "^3.4.2"
   },
   "dependencies": {
+    "@formkit/nuxt": "^0.16.5",
     "@mdi/js": "^7.2.96",
+    "@popperjs/core": "^2.11.7",
     "axios": "^1.4.0",
     "bootstrap": "^5.2.3",
     "vuetify": "^3.2.1"
